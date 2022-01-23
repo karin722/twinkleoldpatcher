@@ -1,0 +1,9 @@
+Package: com.lls.twinkleoldpatcher
+Name: twinkleoldpatcher
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: lls
+Author: lls
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0)
